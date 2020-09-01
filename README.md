@@ -5,7 +5,7 @@
 </a>
 <a href="https://twitter.com/mi_louk">
 <img align="left" alt="Michael's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-
+</a>
 
 ![](https://komarev.com/ghpvc/?username=milouk)
 
